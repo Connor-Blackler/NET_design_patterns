@@ -1,0 +1,14 @@
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.exe
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.deps.json
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.dll
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.pdb
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.pdb
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+C:\git_repo\suite\Documents\Design Patterns\Structural\Adapter\obj\Debug\net8.0\ref\Adapter.dll
