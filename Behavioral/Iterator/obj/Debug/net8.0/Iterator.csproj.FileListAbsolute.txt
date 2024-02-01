@@ -1,0 +1,14 @@
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\bin\Debug\net8.0\Iterator.exe
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\bin\Debug\net8.0\Iterator.deps.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\bin\Debug\net8.0\Iterator.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\bin\Debug\net8.0\Iterator.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Behavioral\Iterator\obj\Debug\net8.0\ref\Iterator.dll
