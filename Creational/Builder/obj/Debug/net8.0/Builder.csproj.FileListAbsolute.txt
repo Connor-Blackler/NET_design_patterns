@@ -1,0 +1,14 @@
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\bin\Debug\net8.0\Builder.exe
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\bin\Debug\net8.0\Builder.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\bin\Debug\net8.0\Builder.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Builder\obj\Debug\net8.0\ref\Builder.dll

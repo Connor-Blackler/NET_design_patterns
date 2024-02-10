@@ -1,0 +1,14 @@
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\bin\Debug\net8.0\Extensions.exe
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\bin\Debug\net8.0\Extensions.deps.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\bin\Debug\net8.0\Extensions.runtimeconfig.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\bin\Debug\net8.0\Extensions.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\bin\Debug\net8.0\Extensions.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfoInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfo.cs
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.csproj.CoreCompileInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\refint\Extensions.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\Extensions.genruntimeconfig.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Extensions\obj\Debug\net8.0\ref\Extensions.dll

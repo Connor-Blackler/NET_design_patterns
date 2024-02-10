@@ -1,0 +1,14 @@
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\git_repo\suite\Core\Examples\Design Patterns\Creational\Singleton\obj\Debug\net8.0\ref\Singleton.dll
